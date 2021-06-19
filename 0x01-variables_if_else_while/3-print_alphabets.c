@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
+* main - You can only use the putchar function
+*
 * Description: using the main function
-* prints the alphabet in lowercase, and then in uppercase, followed by a new line
+* prints the alphabet in lowercase, and then in uppercase
 * Return: 0
 */
 int main(void)
