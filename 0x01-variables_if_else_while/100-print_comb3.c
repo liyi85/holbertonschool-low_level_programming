@@ -14,7 +14,7 @@ int i, j;
 i = 48;
 j = 48;
 
-while (e < 58)
+while (j < 58)
 {
 i = 48;
 while (i < 58)
