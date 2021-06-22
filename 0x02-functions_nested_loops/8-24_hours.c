@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include "holberton.h"
+#include <stdio.h>
 
 /**
 * jack_bauer - Prints the minutes of a day
